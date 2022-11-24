@@ -1,0 +1,2 @@
+MobileConsoleApp/bin
+MobileConsoleApp/obj

@@ -1,0 +1,14 @@
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.exe
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.deps.json
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.runtimeconfig.json
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.runtimeconfig.dev.json
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.dll
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\bin\Debug\netcoreapp3.1\MobileConsoleApp.pdb
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.AssemblyInfoInputs.cache
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.AssemblyInfo.cs
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.dll
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.pdb
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.genruntimeconfig.cache
+C:\Users\GirijaPatil\source\repos\MobileConsoleApp\MobileConsoleApp\obj\Debug\netcoreapp3.1\MobileConsoleApp.csproj.AssemblyReference.cache
